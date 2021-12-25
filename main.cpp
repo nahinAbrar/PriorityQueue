@@ -88,12 +88,5 @@ int main()
 
     printHeap(heap, heapSize);
 
-
-
-
-
-
-
-
-
+    return 21;
 }
